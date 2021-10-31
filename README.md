@@ -5,7 +5,6 @@ This is [My CV?lang=vi](https://www.topcv.vn/xem-cv/VQFTUlcECldVBF8FAFYCAlICUQZX
 （￣︶￣）↗　
 
 ### Contact me via    
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huypham99)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kohuyn/)
 [![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/pt7yV9S2iuLq)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KO_Huyn)
