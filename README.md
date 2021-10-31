@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am **Huy**, student of Electric Power University (EPU)
-
-[My CV]
+I am **Huy**. I'm an android developer. I'm studying at Electricity University.</br>
+This is [My CV?lang=vi](https://www.topcv.vn/xem-cv/VQFTUlcECldVBF8FAFYCAlICUQZXXgMNCFBZVA109e) of me.</br>
+（￣︶￣）↗　
 
 ### Contact me via    
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huypham99)
@@ -28,7 +28,6 @@ They are amazing and I want to try to optimize them for the best user experience
 ### 🌱 What I’m currently learing
 * Mobile app development
 * Kotlin and Java
-* Flutter
-* 
-### Open Source Android of me
+* Flutter(basic)
+### 🎉 Open Source Android of me
 * [BASE MVVM](https://github.com/KOHuyn/BaseMVVM) using ViewBinding , Fast Android Networking , Reactive Programing,Retrofit,Coroutine,etc...
