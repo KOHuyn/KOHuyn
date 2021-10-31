@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am **Huy**. I'm an android developer. I'm studying at Electricity University.</br>
-This is [My CV?lang=vi](https://www.topcv.vn/xem-cv/VQFTUlcECldVBF8FAFYCAlICUQZXXgMNCFBZVA109e) of me.</br>
+This is [My CV?lang=vi](https://i.topcv.vn/phamquanghuy?ref=3730135) of me.</br>
 （￣︶￣）↗　
 
 ### Contact me via    
