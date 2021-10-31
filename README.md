@@ -1,7 +1,20 @@
 ### Hi there 👋
 
-## Hi there 👋
-I am **Cuong**, student of Hanoi University of Science & Technology (HUST)
+I am **Huy**, student of Electric Power University (EPU)
+
+[My CV]
+
+### Contact me via    
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huypham99)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kohuyn/)
+[![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/pt7yV9S2iuLq)
+[![Email](https://img.shields.io/badge/gmail-%FFFFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=white)](huypq.dev@gmail.com)
+
+### Skills
+![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")
+![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Github Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KOHuyn&label=Profile%20views&color=0e75b6&style=flat" alt="KOHuyn" /> </p>
@@ -10,14 +23,13 @@ I am **Cuong**, student of Hanoi University of Science & Technology (HUST)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOHuyn&layout=compact&langs_count=10&hide=html,css,dockerfile,cmake)
 
 ### ✨ My interests 
-I am passionate about software development. I love coding and coding as well 💪
+I am passionate about programming and the products I make.
+They are amazing and I want to try to optimize them for the best user experience.
 
 ### 🌱 What I’m currently learing
 * Mobile app development
 * Kotlin and Java
-* Swift
-
-### 📫 How to reach me
-* Telegram: [kohuyn](https://telegram.me/cuongnv219)
-* Twitter: [kaataanaa219](https://twitter.com/kaataanaa219)
-* E-mail: huypq.dev@gmail.com
+* Flutter
+* 
+### Open Source Android of me
+* [BASE MVVM](https://github.com/KOHuyn/BaseMVVM) using ViewBinding , Fast Android Networking , Reactive Programing,Retrofit,Coroutine,etc...
