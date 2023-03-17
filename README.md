@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am **Huy**. I'm an android developer. I'm studying at Electricity University.</br>
-This is [My CV?lang=vi](https://i.topcv.vn/phamquanghuy?ref=3730135) of me.</br>
+I am **Huy**. I'm an android developer.</br>
 （￣︶￣）↗　
 
 ### Contact me via    
